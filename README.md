@@ -33,4 +33,4 @@ A small application which provides news and weather information to user
 
 4. npm run test for test
 
-5. Follow API documentation to use API endpoints.
+5. Follow- https://documenter.getpostman.com/view/5755474/TzXtHfmt, for API documentation to use endpoints.
