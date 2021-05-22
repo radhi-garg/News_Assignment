@@ -29,6 +29,8 @@ A small application which provides news and weather information to user
 
 2. npm run dev to run in development mode
 
-3. npm run test for test
+3. Insert a test user, {email: 'test@gmail.com', password: 'test123', name: 'test'}, in test collection to run  tests successfully as it creates token using login API.
 
-4. Follow API documentation to use API endpoints.
+4. npm run test for test
+
+5. Follow API documentation to use API endpoints.
