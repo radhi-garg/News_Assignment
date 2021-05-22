@@ -11,13 +11,13 @@ A small application which provides news and weather information to user
 
 2. In .env file, place a string in Secret Key for token generation, example - 'FCizrHEhpC'
 
-3. Generate API key for using news api from https://newsapi.org/, place under NEWS_API_KEY in .env file.
+3. Generate API key for using news api from https://newsapi.org/, place under NEWS_API_KEY in .env file
 
-4. Generate API key for using weather api from https://openweathermap.org/api, place under WEATHER_API_KEY in .env file.
+4. Generate API key for using weather api from https://openweathermap.org/api, place under WEATHER_API_KEY in .env file
 
 5. Place a string in CACHE_KEY Key, example - 'FCizrHEhpC'
 
-6. Used Mongo DB as a service at my local machine.
+6. Use Mongo DB as a service at local machine and fill in the mongo details in .env file
 
 7. cd server
 
